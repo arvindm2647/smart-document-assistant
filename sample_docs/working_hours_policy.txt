@@ -1,0 +1,17 @@
+Working Hours Policy - Acme Corporation
+
+1. Standard Working Hours
+Standard working hours are 9:00 AM to 6:00 PM, Monday through Friday, with a one-hour
+lunch break. The company operates on a 40-hour work week.
+
+2. Flexible Working
+Employees may request flexible start times between 8:00 AM and 10:00 AM, subject to
+manager approval, as long as core hours (11:00 AM to 4:00 PM) are maintained.
+
+3. Remote Work
+Employees may work remotely up to 2 days per week. Fully remote arrangements require
+approval from both the reporting manager and HR.
+
+4. Overtime
+Non-exempt employees who work beyond 40 hours in a week are eligible for overtime pay at
+1.5 times their regular hourly rate, subject to prior manager approval.
