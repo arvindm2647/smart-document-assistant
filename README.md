@@ -101,7 +101,7 @@ can be uploaded alongside these to test the additional supported formats.
 | Variable | Required | Description |
 |---|---|---|
 | `GROQ_API_KEY` | Yes | Your free Groq API key ([console.groq.com/keys](https://console.groq.com/keys)) |
-| `GROQ_MODEL` | No | Overrides the default model (`openai/gpt-oss-120b`). Available models vary by account — check yours by listing `client.models.list()` with the Groq SDK. |
+| `GROQ_MODEL` | No | Overrides the default model (`openai/gpt-oss-120b`).
 
 No secrets are committed to this repository — `.env` is gitignored, and `.env.example` is
 provided as a template only.
