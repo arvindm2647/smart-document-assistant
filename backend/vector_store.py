@@ -16,7 +16,8 @@ class VectorStore:
         self.collection = self.client.get_or_create_collection(
             name=COLLECTION_NAME,
             embedding_function=self.embedding_fn,
-        )
+            metadata={"hnsw:space": "cosine"},
+)
 
     def add_chunks(self, chunks: List[Chunk]) -> None:
         if not chunks:
